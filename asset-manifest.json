@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/high_low_refactor/static/js/main.9defce50.js",
+    "static/js/787.7128b8fd.chunk.js": "/high_low_refactor/static/js/787.7128b8fd.chunk.js",
+    "static/media/card_table.png": "/high_low_refactor/static/media/card_table.9130987c0cfbe3ea8219.png",
+    "index.html": "/high_low_refactor/index.html",
+    "main.9defce50.js.map": "/high_low_refactor/static/js/main.9defce50.js.map",
+    "787.7128b8fd.chunk.js.map": "/high_low_refactor/static/js/787.7128b8fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9defce50.js"
+  ]
+}
