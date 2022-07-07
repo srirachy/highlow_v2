@@ -1,0 +1,12 @@
+[
+  {
+    "disabled": false,
+    "value": 1,
+    "name": "Guesser"
+  },
+  {
+    "disabled": false,
+    "value": 2,
+    "name": "Dealer"
+  }
+]
